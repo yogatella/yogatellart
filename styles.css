@@ -10,8 +10,10 @@ body {
 }
  
 .site-subtitle {
-    font-size: 40px;
+    font-size: 24px;
     font-family: skia;
+    color: #9f9fa0;
+    font-weight: 200;
 }
 
 .card-columns {
