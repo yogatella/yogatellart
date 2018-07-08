@@ -3,10 +3,16 @@ body {
     margin: 6%;
  }
 
+ .menu1 {
+    margin-top: 30px;
+    font-family: skia;
+    font-weight: 200;
+ }
+
 .site-title {
     font-family: 'Personality DEMO';
     font-size: 80px;
-    margin-top: 300px;
+    margin-top: 200px;
 }
  
 .site-subtitle {
@@ -16,9 +22,27 @@ body {
     font-weight: 200;
 }
 
+.nav-link {
+    color: black;
+}
+
 .card-columns {
     column-count: 4 !important;
+    margin-top: 30px;
  } 
+
+ .card-title {
+    color: purple;
+    font-weight: 400;
+    font-size: 18px;
+    font-family: skia;
+ }
+
+ .card-text {
+    color: gray;
+    font-size: 14px;
+    font-family: skia;
+ }
  
  #logo {
     width: 300px;
